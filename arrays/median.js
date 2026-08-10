@@ -116,3 +116,4 @@ let result2 = findMedianSortedArrays(nums1, nums2);
 console.log("Final Answer:", result2);
 
 // Binary search doesn't always search for a number. Sometimes it searches for the correct position/partition.
+//done
